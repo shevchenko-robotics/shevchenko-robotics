@@ -17,7 +17,7 @@
 ## Проекты
 
 - [**abbr-gost-word**](https://github.com/shevchenko-robotics/abbr-gost-word) — надстройка Word для проверки сокращений по ГОСТ
-- [**diploma-template**](https://github.com/shevchenko-robotics/diploma-template) — шаблон репозитория для выпускной работы
+- [**vkr-robotics**](https://github.com/vkr-robotics) — выпускные работы студентов по робототехнике и шаблон репозитория для них
 
 ---
 
