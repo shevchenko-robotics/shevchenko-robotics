@@ -18,7 +18,7 @@
 
 ## Проекты
 
-- [**maksimshevchenko.ru**](https://github.com/shevchenko-robotics/maksimshevchenko.ru) — личный сайт с интерактивной моделью манипулятора
+- [**maksimshevchenko.ru**](https://maksimshevchenko.ru) — личный сайт с интерактивной моделью манипулятора
 - [**abbr-gost-word**](https://github.com/shevchenko-robotics/abbr-gost-word) — надстройка Word для проверки сокращений по ГОСТ
 - [**vkr-robotics**](https://github.com/vkr-robotics) — выпускные работы студентов по робототехнике и шаблон репозитория для них
 
